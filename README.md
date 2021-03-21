@@ -1,2 +1,2 @@
 # Coursera
-Coursera Courses
+Archived Coursera Courses
