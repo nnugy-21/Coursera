@@ -1,2 +1,2 @@
 # Coursera
-Archived Coursera Courses
+This repository written for reference and self-documentation purpose
