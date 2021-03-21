@@ -1,25 +1,16 @@
 # [Crash Course on Python](https://www.coursera.org/learn/python-crash-course/)
 
-## About this Course
+## About this Professional Certificate
 
-This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. 
+This new beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
 
-We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming concepts through interactive exercises and real-world examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do.
+Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the [most in-demand programming language by employers](https://insights.dice.com/2019/10/08/python-java-top-languages-employers/).
 
-## What you will learn
+This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
 
-* Understand what Python is and why Python is relevant to automation
-* Write short Python scripts to perform automated actions
-* Understand how to use the basic Python structures: strings, lists, and dictionaries
-* Create your own Python objects
+This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completing the program, you’ll have the option to share your information with potential employers, like Walmart, Sprint, Hulu, Bank of America, Google (of course!), and more.
 
-## Skills you will gain
-
-* Basic Python 
-* Data Structures
-* Fundamental Programming Concepts
-* Basic Python SyntaxPython Programming
-* Object-Oriented Programming (OOP)
+We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
 
 [Coursera_Certificate_Google_IT_Automation_with_Python.pdf](https://github.com/nnugy-21/Coursera/files/6178144/Coursera_Certificate_Google_IT_Automation_with_Python.pdf)
 ![image](https://user-images.githubusercontent.com/79896959/111918072-eb84e180-8ab5-11eb-8cce-ec34d65a5655.png)
