@@ -1,4 +1,4 @@
-# [Crash Course on Python](https://www.coursera.org/learn/python-crash-course/)
+# [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 
 ## About this Professional Certificate
 
