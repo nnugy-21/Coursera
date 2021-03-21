@@ -20,3 +20,5 @@ We'll start off by diving into the basics of writing a computer program. Along t
 * Fundamental Programming Concepts
 * Basic Python SyntaxPython Programming
 * Object-Oriented Programming (OOP)
+
+[Coursera_Certificate_Google_IT_Automation_with_Python.pdf](https://github.com/nnugy-21/Coursera/files/6178144/Coursera_Certificate_Google_IT_Automation_with_Python.pdf)
