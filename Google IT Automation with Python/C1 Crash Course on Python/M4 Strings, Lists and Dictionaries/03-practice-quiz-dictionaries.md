@@ -13,7 +13,7 @@ def email_list(domains):
 	emails = []
 	for domain, users in domains.items():
 	  for user in users:
-	    emails.append(user + '@' + domain)
+	    emails.append(user + "@" + domain)
 	return(emails)
 
 print(email_list({"gmail.com": ["clark.kent", "diana.prince", "peter.parker"], "yahoo.com": ["barbara.gordon", "jean.grey"], "hotmail.com": ["bruce.wayne"]}))
@@ -39,10 +39,13 @@ def groups_per_user(group_dictionary):
 		# Now go through the users in the group
 		for user in users:
 			# Now add the group to the the list of
-			# groups for this user, creating the entry
-			# in the dictionary if necessary
-			user_groups[user] = user_groups.get(user,[]) + [group]
-	return(user_groups)
+			if user not in user_groups:
+				user_groups[user] = []
+			user_groups[user].append(group)
+
+# groups for this user, creating the entry
+# in the dictionary if necessary
+	return user_groups
 
 print(groups_per_user({"local": ["admin", "userA"],
 		"public":  ["admin", "userB"],
@@ -97,11 +100,11 @@ def add_prices(basket):
 	# Initialize the variable that will be used for the calculation
 	total = 0
 	# Iterate through the dictionary items
-	for item in basket:
+	for items, price in basket.items():
 		# Add each price to the total calculation
 		# Hint: how do you access the values of
 		# dictionary items?
-		total += basket[item]
+		total += price
 	# Limit the return value to 2 decimal places
 	return round(total, 2)  
 
