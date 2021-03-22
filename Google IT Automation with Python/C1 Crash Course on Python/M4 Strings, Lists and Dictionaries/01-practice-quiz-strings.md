@@ -10,17 +10,18 @@ The is_palindrome function checks if a string is a palindrome. A palindrome is a
 
 ```
 def is_palindrome(input_string):
+	string = input_string.upper()
 	# We'll create two strings, to compare them
 	new_string = ""
 	reverse_string = ""
 	# Traverse through each letter of the input string
-	for letter in input_string.lower():
+	for word in string:
 		# Add any non-blank letters to the 
 		# end of one string, and to the front
 		# of the other string. 
-		if letter.isalpha():
-			new_string = new_string + letter
-			reverse_string = letter + reverse_string
+		if word != " ":
+			new_string += word
+			reverse_string = new_string[::-1]
 	# Compare the strings
 	if new_string == reverse_string:
 		return True
@@ -92,7 +93,7 @@ print(nametag("Jane", "Smith"))
 print(nametag("Francesco", "Rinaldi")) 
 # Should display "Francesco R." 
 print(nametag("Jean-Luc", "Grand-Pierre")) 
-# Should display "Jean-Luc G." 
+# Should display "Jean-Luc G."  
 ```
 
 Output:
