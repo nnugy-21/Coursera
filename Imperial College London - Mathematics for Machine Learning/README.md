@@ -1,8 +1,8 @@
-# [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+# [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 > All copyrighted materials belong to Coursera, this repository created for reference purpose.
 <br>
 
-## About this Professional Certificate
+## About this Specialization
 
 For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.
 
