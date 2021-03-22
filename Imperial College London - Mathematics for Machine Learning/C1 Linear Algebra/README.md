@@ -1,3 +1,5 @@
+# [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/)
+
 ## About This Course
 Welcome to Mathematics for Machine Learning: Linear Algebra! You’re joining thousands of learners currently enrolled in the course. We are excited to have you in the class and look forward to your contributions to the learning community.
 
