@@ -90,14 +90,12 @@ Fill in the empty function so that it returns the sum of all the divisors of a n
 
 ```
 def sum_divisors(n):
-  sum, num = 0, 1
-  while num < n:
-    if n % num == 0: 
-      sum += num
-    if num > n//2: 
-      pass
-    num += 1
-  # Return the sum of all divisors of n, not including n
+  sum = 0
+  x = 1
+  while x < n:
+    if n % x == 0:
+      sum += x
+    x += 1
   return sum
 
 print(sum_divisors(0))
