@@ -14,24 +14,19 @@
 
 
 ```
-Making a peanut butter and jelly sandwich.
+How to Make A Peanut Butter and Jelly Sandwich.
 
-Problem Description: 
-    Explain the process of making a peanut butter and jelly sandwich to someone who has never seen one before. 
+Problem Description: Explain the process of making peanut butter and jelly sandwich.
 
-Solutions:
-    User want me to explain how to make a peanut butter and jelly sandwich. so i write to him following instructions:
-    
-    Step 1: Gather Your Ingredients for the Sandwich.
-    Step 2: Put Gloves on (optional).
-    Step 3: Pull Out Two Slices of Bread.
-    Step 4: Open Peanut Butter and Jelly.
-    Step 5: Spread the Peanut Butter Onto One Slice of Bread.
-    Step 6: Spread the Jelly Onto the Other Slice of Bread.
-    Step 7: Combine the Two Slices.
-    Step 8: Cut Off the Crusts (optional). 
-    Step 10: Clean Up Your Workspace. 
-    Step 11: Enjoy Your Sandwich.
+Ingredients to make peanut butter and jelly sandwich:
+- Two slices of bread
+- Peanut butter
+- Jelly
 
-    This step-by-step referenced from https://www.instructables.com/id/How-to-Make-a-Peanut-Butter-and-Jelly-Sandwich-4/
+Directions:
+Step 1: Pull out two slices of bread.
+Step 2: Spread the peanut butter onto one slice of the bread.
+Step 3: Spread the jelly onto the other slice of the bread.
+Step 4: Combine the two slices.
+Step 5: Enjoy your Peanut Butter and Jelly Sandwich!
 ```
