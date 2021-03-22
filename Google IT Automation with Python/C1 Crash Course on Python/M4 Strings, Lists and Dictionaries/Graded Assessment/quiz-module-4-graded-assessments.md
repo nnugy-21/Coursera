@@ -11,24 +11,24 @@ The format_address function separates out parts of the address string into new s
 ```
 def format_address(address_string):
   # Declare variables
-  hourse_number = ''
-  street_name = ''
   # Separate the address string into parts
-  address_string = address_string.split()
-
+  number = ""
+  street = []
+  string = address_string.split()
   # Traverse through the address parts
-  for string in address_string:
+  for elements in string:
     # Determine if the address part is the
     # house number or part of the street name
-    if string.isdigit():
-      hourse_number = string
-    # Does anything else need to be done 
-    # before returning the result?
+    if elements.isnumeric():
+      number = elements
     else:
-      street_name += string + ' '
+      street.append(elements)
+  # Does anything else need to be done 
+  # before returning the result?
+  street_name = " ".join(street)
   
   # Return the formatted string  
-  return "house number {} on street named {}".format(hourse_number, street_name)
+  return "house number {} on street named {}".format(number, street_name)
 
 print(format_address("123 Main Street"))
 # Should print: "house number 123 on street named Main Street"
@@ -56,7 +56,7 @@ The highlight_word function changes the given word in a sentence to its upper-ca
 
 ```
 def highlight_word(sentence, word):
-	return(sentence.replace(word, word.upper(), 1))
+	return(sentence.replace(word, word.upper()))
 
 print(highlight_word("Have a nice day", "nice"))
 print(highlight_word("Shhh, don't be so loud!", "loud"))
@@ -80,8 +80,12 @@ A professor with two assistants, Jamie and Drew, wants an attendance list of the
 ```
 def combine_lists(list1, list2):
   # Generate a new list containing the elements of list2
+  combined_list = list2
   # Followed by the elements of list1 in reverse order
-  return list2 + list1[::-1]
+  #reversed_list = list1.reverse()
+  for elements in list1[::-1]:
+    combined_list.append(elements)
+  return combined_list
   
 	
 Jamies_list = ["Alice", "Cindy", "Bobby", "Jan", "Peter"]
@@ -104,7 +108,7 @@ Use a list comprehension to create a list of squared numbers (n*n). The function
 
 ```
 def squares(start, end):
-	return [ num**2 for num in range(start, end+1) ]
+	return [n*n for n in range(start, end+1)]
 
 print(squares(2, 3)) # Should be [4, 9]
 print(squares(1, 5)) # Should be [1, 4, 9, 16, 25]
@@ -128,8 +132,8 @@ Complete the code to iterate through the keys and values of the car_prices dicti
 ```
 def car_listing(car_prices):
   result = ""
-  for cars in car_prices:
-    result += "{} costs {} dollars".format(cars, car_prices[cars]) + "\n"
+  for name, values in car_prices.items():
+    result += "{} costs {} dollars".format(name, values) + "\n"
   return result
 
 print(car_listing({"Kia Soul":19000, "Lamborghini Diablo":55000, "Ford Fiesta":13000, "Toyota Prius":24000}))
@@ -154,9 +158,13 @@ Taylor and Rory are hosting a party. They sent out invitations, and each one col
 def combine_guests(guests1, guests2):
   # Combine both dictionaries into one, with each key listed 
   # only once, and the value from guests1 taking precedence
-  guests = guests2.copy()
-  guests.update(guests1)
-  return guests
+  new_dict = {}
+  for name1, value1 in guests1.items():
+    new_dict[name1] = value1
+  for name2, value2 in guests2.items():
+    if name2 not in new_dict:
+      new_dict[name2] = value2
+  return new_dict
 
 Rorys_guests = { "Adam":2, "Brenda":3, "David":1, "Jose":3, "Charlotte":2, "Terry":1, "Robert":4}
 Taylors_guests = { "David":4, "Nancy":1, "Robert":2, "Adam":1, "Samantha":3, "Chris":5}
@@ -180,14 +188,14 @@ Use a dictionary to count the frequency of letters in the input string. Only let
 def count_letters(text):
   result = {}
   # Go through each letter in the text
-  for letter in text.lower():
+  for letter in text:
     # Check if the letter needs to be counted or not
     if letter.isalpha():
-      if letter not in result:
-        result[letter] = 1
-        # Add or increment the value in the dictionary
-      else:
-        result[letter] += 1
+      lowercase = letter.lower() 
+      if lowercase not in result:
+        result[lowercase] = 0
+    # Add or increment the value in the dictionary
+      result[lowercase] += 1
   return result
 
 print(count_letters("AaBbCc"))
