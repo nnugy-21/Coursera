@@ -14,3 +14,5 @@ We recommend that you have Python installed on your machine. For some courses, y
 
 [Coursera_Certificate_Google_IT_Automation_with_Python.pdf](https://github.com/nnugy-21/Coursera/files/6178144/Coursera_Certificate_Google_IT_Automation_with_Python.pdf)
 ![image](https://user-images.githubusercontent.com/79896959/111918072-eb84e180-8ab5-11eb-8cce-ec34d65a5655.png)
+
+Reference: [Elmo Allistair](https://github.com/elmoallistair/google-it-automation)
