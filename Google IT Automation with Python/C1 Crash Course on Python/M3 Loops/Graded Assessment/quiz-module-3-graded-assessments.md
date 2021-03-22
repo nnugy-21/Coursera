@@ -57,9 +57,9 @@ def digits(n):
 	count = 0
 	if n == 0:
 	  return 1
-	while (n >= 1):
+	while (n):
 		count += 1
-		n = n / 10
+		n = n // 10
 	return count
 	
 print(digits(25))   # Should print 2
@@ -115,7 +115,7 @@ The counter function counts down from start to stop when start is bigger than st
 ```
 def counter(start, stop):
 	x = start
-	if start > stop:
+	if x > stop:
 		return_string = "Counting down: "
 		while x >= stop:
 			return_string += str(x)
@@ -153,7 +153,7 @@ The even_numbers function returns a space-separated string of all positive numbe
 ```
 def even_numbers(maximum):
 	return_string = ""
-	for x in [num for num in range(1, maximum+1) if num % 2 == 0]:
+	for x in range(2, maximum+1, 2):
 		return_string += str(x) + " "
 	return return_string.strip()
 
