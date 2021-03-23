@@ -1,4 +1,4 @@
-# [DeepLearning.AI Tenosr Flow Developer Proffesional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+# [DeepLearning.AI Tensor Flow Developer Proffesional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 > All copyrighted materials belong to Coursera, this repository created for reference and self-documentation purpose.
 
 ## About this Professional Certificate
