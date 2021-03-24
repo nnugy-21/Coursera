@@ -9,3 +9,4 @@ Last week you saw how to improve the results from your deep neural network using
 * [How to decide the number of hidden layers and neurons](https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e)
 * [Understanding Loss Parameters](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 * [Understanding Optimizer: RMSprop](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop)
+* [Understanding Rescale = 1./255](https://www.linkedin.com/pulse/keras-image-preprocessing-scaling-pixels-training-adwin-jahn/)
