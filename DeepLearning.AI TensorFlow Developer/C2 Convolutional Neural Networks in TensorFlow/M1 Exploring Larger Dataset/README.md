@@ -3,3 +3,4 @@ In the first course in this specialization, you had an introduction to TensorFlo
 
 ## Resources
 * [Cat vs Dog Dataset (Kaggle)](https://www.kaggle.com/c/dogs-vs-cats)
+* [How can loss be greater than 1.0? (Stackoverflow)](https://stackoverflow.com/questions/47817424/loss-accuracy-are-these-reasonable-learning-curves)
