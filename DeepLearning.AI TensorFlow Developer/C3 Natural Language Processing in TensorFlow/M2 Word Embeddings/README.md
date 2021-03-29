@@ -3,3 +3,5 @@ Last week you saw how to use the Tokenizer to prepare your text to be used by a 
 
 ## Resources
 * [IMDB Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+* [TensorFlow Dataset (github)](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+* [TensorFlow Subword Text Encoder](https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder)
