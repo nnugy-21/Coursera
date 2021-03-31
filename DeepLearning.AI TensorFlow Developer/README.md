@@ -29,3 +29,7 @@ In the DeepLearning.AI TensorFlow Developer Professional Certificate program, yo
 * Build natural language processing systems using TensorFlow.
 
 * Apply RNNs, GRUs, and LSTMs as you train them using text repositories.
+
+[Certificate_DeepLearningAI_Specialization.pdf](https://github.com/nnugy-21/Coursera-2021/files/6236306/Certificate_DeepLearningAI_Specialization.pdf)
+![image](https://user-images.githubusercontent.com/79896959/113139637-92eddb00-9251-11eb-998e-cc41f5217368.png)
+
