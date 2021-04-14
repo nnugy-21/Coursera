@@ -10,5 +10,6 @@
 
 But in the example above, classifier A has a better Recall and classifier B has a better Precision, so which one should we choose? <br>
 Because of that, we need another metric which is F1. <br>
-F1 = the harmonic mean of Precission and Recall
+F1 = the harmonic mean of Precission and Recall <br>
+**So, what we are trying to say here, if u want to evaluate ur system, it's better if u have 1 single number evaluation metric to measure it easily**
 ![image](https://user-images.githubusercontent.com/79896959/114688681-21c52200-9d3f-11eb-8334-d4edbe106d59.png)
