@@ -20,3 +20,7 @@ The Deep Learning Specialization is our foundational program that will help you 
 * Multi-Task Learning
 
 * Decision-Making
+
+[Coursera_Certificate_Structuring_ML_Project.pdf](https://github.com/nnugy-21/Coursera-2021/files/6329838/Coursera_Certificate_Structuring_ML_Project.pdf)
+![image](https://user-images.githubusercontent.com/79896959/115123550-c49fc980-9fe7-11eb-992c-b79bdf8e4748.png)
+
