@@ -14,7 +14,7 @@ If the Android Neural networks API is available and you want to use it, how woul
 * Invoke the NNAPI object, and pass the tflite interpreter to it
 * You can’t use the neural networks API with a TensorFlow Lite model
 * Do nothing, it will work automatically
-* Call the setUseNNAPI method on the interpreter and set its parameter to true
+* **Call the setUseNNAPI method on the interpreter and set its parameter to true**
 > Correct
 
 ## Question 3
@@ -45,7 +45,7 @@ If you tested your converted model and know its valid, but the interpreter canno
 What is the method signature of the interpreter when you want to do inference?
 * predictions = interpreter.run(inputs)
 * interpreter.predict(inputs, predictions)
-* interpreter.run(inputs, predictions)
+* **interpreter.run(inputs, predictions)**
 * predicitons = interpreter.predict(inputs)
 > Correct
 
