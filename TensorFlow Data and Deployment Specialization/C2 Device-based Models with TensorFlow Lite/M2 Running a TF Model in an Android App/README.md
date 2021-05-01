@@ -3,5 +3,11 @@ Last week you learned about TensorFlow Lite and you saw how to convert your mode
 
 ## Learning Objectives
 * Understand how incorporate a TF Lite model into Android apps
-* Create an Android app that performs image classification
+* Create an Android app that performs 
+* image classification
 * Create an Android app that performs object detection
+
+## Resource
+* [Learning how to code in Android Studio](developer.android.com/courses)
+* [Android Studio Development Tools](developer.android.com/studio)
+* [Dependencies on Android Studio](https://bintray.com/google/tensorflow/tensorflow-lite)
