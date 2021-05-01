@@ -9,3 +9,5 @@ Welcome to this course on TensorFlow Lite, an exciting technology that allows yo
 
 ## Resources
 * [More depth about GPU delegates (youtube)](https://www.youtube.com/watch?v=QSbAUxWfxQw)
+* [Supported Operations on TFLite](https://www.tensorflow.org/lite/guide/ops_compatibility)
+* [More about TF-Select](https://www.tensorflow.org/lite/guide/ops_select)
