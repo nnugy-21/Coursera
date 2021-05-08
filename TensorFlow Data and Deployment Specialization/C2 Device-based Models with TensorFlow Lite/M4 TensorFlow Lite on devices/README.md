@@ -8,3 +8,9 @@ Now that you've looked at TensorFlow Lite and explored building apps on Android 
 * Option1: [Source for the RPI](https://github.com/tensorflow/build/tree/master/raspberry_pi_builds)
 * Option2: [Working on a virtual environment](https://www.tensorflow.org/install/pip)
 * Option3: [TF interpreter](https://www.tensorflow.org/lite/guide/python)
+
+## Suggested Link
+* [Sparkfun 15170](https://www.sparkfun.com/products/15170) 
+* [Sparkfun 15096](https://www.sparkfun.com/products/15096)
+* [Sparkfun colab](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow/#0)
+* [TF on different microcontrollers](https://www.tensorflow.org/lite/microcontrollers/get_started)
