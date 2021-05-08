@@ -7,3 +7,6 @@ In this week, you will construct train/validation/test splits of any dataset - e
 * Investigate feature descriptors
 * Identify applications of the Splits API to create custom dataset splits and examine TFRecords and Feature descriptors which help you gain more information about your dataset
 * Load a pre-trained feature vector and create custom train/test/validation set splits using Splits API which makes it easier to load data for training and evaluation in your ML pipeline
+
+## Resource
+* [How to slice list and tuples in Python](https://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/)
