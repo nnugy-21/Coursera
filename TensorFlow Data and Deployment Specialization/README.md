@@ -26,3 +26,7 @@ Industries all around the world are adopting Artificial Intelligence. This Speci
 * Artificial Neural Network
 * Extraction, Transformation And Loading (ETL)
 * Data Pipelines
+
+[Coursera_Certificate_Data_and_Deplyoment_Course.pdf](https://github.com/nnugy-21/Coursera-2021/files/6457619/Coursera_Certificate_Data_and_Deplyoment_Course.pdf)
+
+![image](https://user-images.githubusercontent.com/79896959/117784016-4c869580-b26d-11eb-839f-67949f374ade.png)
