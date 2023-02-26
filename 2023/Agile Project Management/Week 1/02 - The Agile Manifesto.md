@@ -1,4 +1,4 @@
-# Week 1 Practice Quiz 1
+# Week 1 Practice Quiz 2
 ## Latest Submission Grade: 100%
 
 ## Question 1
