@@ -53,11 +53,11 @@ A Scrum Master is responsible for helping the team understand Scrum theory and p
 
 According to the Scrum Guide, “The Product Owner is responsible for maximizing the value of the product resulting from work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.” Product Owners maximize the value of the product by representing and expressing the voice of the customer throughout the project duration. A product isn’t useful to its customers if that product doesn’t fulfill their expectations and meet their needs. The Product Owner’s duties include:
 
-Developing and explicitly communicating the Product Goal
+* Developing and explicitly communicating the Product Goal
 
-Creating and clearly communicating Product Backlog items (The Product Backlog contains all of the features, requirements, and activities associated with deliverables to achieve the goal of the project.)
+* Creating and clearly communicating Product Backlog items (The Product Backlog contains all of the features, requirements, and activities associated with deliverables to achieve the goal of the project.)
 
-Ensuring that the Product Backlog is transparent, visible, and understood
+* Ensuring that the Product Backlog is transparent, visible, and understood
 
 ## Product Owner vs. project manager
 
