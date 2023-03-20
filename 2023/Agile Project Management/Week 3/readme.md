@@ -55,3 +55,12 @@ Let’s imagine you are creating user stories and epics based on the previous ex
 Another user story could be that customers want to walk into the library and easily find the non-fiction section. This would fall under the “organization of the physical space” epic.
 
 So rather than those various user stories appearing in a list together, they are organized into sections, or epics.
+  
+![image](https://user-images.githubusercontent.com/79896959/226251515-eacc66e7-a651-48a3-af23-83968dcdf10b.png)
+  
+It’s important to note that while the Product Owner can write user stories and epics, a Developer can also write them as long as the Product Owner remains accountable for the Product Backlog item.
+
+## Key takeaway
+  
+Epics allow you to keep track of large, loosely-defined ideas, while user stories are a much smaller unit of work, inspired directly from the end user or customer. Both user stories and epics help teams ensure they are delivering value to the customer.
+
