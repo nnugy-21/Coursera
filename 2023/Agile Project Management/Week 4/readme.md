@@ -66,3 +66,50 @@ To learn more about some best practices for building product roadmaps, check out
 
 ## Key takeaway
 Roadmaps are important for any well-managed project, but they are especially useful to Agile teams. Having a shared roadmap about what the team is delivering over a longer time period is an important way to connect the work that the team does on the sprints with the broader vision for the project. This helps the team stay motivated through the rough patches and leads to a great sense of accomplishment as roadmap deliverables are achieved. 
+
+# Responding to change over following a plan
+As we learned in the beginning of this course, Agile dedicates one of its four values to “Responding to change over following a plan.” This reading aims to clarify some important considerations when implementing a change to the release plan.
+
+The best way to think about changing your plan is to break it down into three stages:
+
+* Identifying a needed change 
+* Deciding to make the change
+* Implementing the change
+
+## Step 1: Identifying a needed change 
+First, how do you know if your plan needs to be changed? Here are some aspects of your project that may be candidates for change: scope, time, and costs (or resources). As we previously learned, these are called the “triple constraint,” and they provide a great framework for evaluating change in Agile and traditional projects.
+
+* In Agile, scope refers to the contents of the product roadmap, the items in the Product Backlog, the intended deliverables of the project, and the intended users or customers. This is the “what” of the project.
+* Time refers to the elements of time or layout of the deliverables over a period of time. This could include the product roadmap timeline, release schedule, or even the Sprint duration. This is the “when” of the project.
+* Costs or resources refer to the makeup of the Development Team, project managers, and product owners, and other “business people” as well as the equipment available to create the deliverable. This is the “how” of the project.
+
+Agile projects are open to change in any of these three areas, and a needed change could be identified by any project stakeholders, including the Product Owner, Project Manager, Scrum Master, or the Development Team themselves. Sources of identified changes could include:
+
+* Customer feedback on early prototypes results in new features and some deleted features (scope change)
+* Sprint Retrospective identifies an area of understaffing (cost or resource change)
+* Critical project dependencies or deliverable dates have shifted, resulting in a change to the project roadmap (schedule or time change)
+
+![image](https://user-images.githubusercontent.com/79896959/227841481-81e4188f-cb07-4939-b3a8-46f231ee166f.png)
+
+## Step 2: Deciding to make the change
+Next, how do you decide to actually make the change? There are many decision-making models available to reference. Here are the basic steps involved in most of these models:
+
+* Identify the “decider.” It is best to have a single person—generally the Product Owner or a senior stakeholder—in the role of decider to ensure consistency and accountability. 
+* Develop and share what factors are important to the decision, and gather supporting data that will help the decider make the decision.
+* Openly discuss the benefits and costs of the decision. Identify areas of uncertainty and capture assumptions.
+* Document the decision.
+
+## Step 3: Implementing the change
+Once changes are approved, it is important to do several things:
+
+* Document the change and decision-making process. 
+<br>Include meeting notes, pros/cons lists, assumptions, and data that went into making the decision to change the project.
+* Capture the change in any affected artifacts. 
+<br>Update any roadmaps, Product Backlogs, staffing plans, and integration dates, and include a reference to the source of the change so that stakeholders can refer back to it. Consider using revision labels or dates on affected documents like “version 1.2” or “updated on December 20th” so that the team can clearly recognize that the document has changed.
+* Share the change with all affected stakeholders. 
+<br>You can do this through many types of forums: in person at meetings, in documentation and meeting notes, and through email announcements. 
+* Monitor the change for a certain amount of time. 
+<br>This ensures that the team is supportive and aware of the change.
+
+If the change was not approved during the decision stage, you should still document the information and logic used to make the decision. You may even consider putting a change on hold while you wait for more information to make the decision with higher confidence.
+
