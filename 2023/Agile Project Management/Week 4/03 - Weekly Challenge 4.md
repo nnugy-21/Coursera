@@ -298,3 +298,200 @@ Large-Scale Scrum (LeSS)
 Disciplined Agile Delivery (DAD)
 
 Correct
+
+1.
+Question 1
+Fill in the blank: You can make sure your team delivers value to customers by building the right thing, building the thing right, and _____.
+
+1 / 1 point
+
+running it cheaply
+
+
+selling it right
+
+
+running it right
+
+
+scaling as fast as possible
+
+Correct
+2.
+Question 2
+What is the purpose of the product roadmap in a value roadmap? Select all that apply.
+
+0.75 / 1 point
+
+It outlines a tentative schedule for reaching milestones.
+
+Correct
+
+It defines how the product will support customers’ business strategies.
+
+This should not be selected
+Try reviewing the video on the roadmap to value. 
+
+
+It identifies the end users of the product.
+
+
+It provides a high-level view of requirements.
+
+Correct
+3.
+Question 3
+What defines the product, who uses it, and how it supports the customer’s business strategy?
+
+0 / 1 point
+
+A product roadmap
+
+
+A product vision
+
+
+A product backlog
+
+
+A value playbook
+
+Incorrect
+Try reviewing the video on the roadmap to value. 
+
+4.
+Question 4
+What are some of the benefits of developing and maintaining a product roadmap? Select all that apply.
+
+1 / 1 point
+
+Teams and stakeholders understand of the sequence of deliverables
+
+Correct
+
+Teams understand how their efforts relate to the project vision
+
+Correct
+
+Stakeholders notice incremental value over the course of the project
+
+Correct
+
+Stakeholders meet with the Product Owner less frequently throughout the project 
+
+5.
+Question 5
+Which of the following are common factors that result in changes to the release plan? Select all that apply.
+
+0.5 / 1 point
+
+Change in team velocity
+
+Correct
+
+Better understanding of how much process space is needed
+
+This should not be selected
+Try reviewing the video on reaching your value destination. 
+
+
+Change to product scope
+
+Correct
+
+Better understanding of how much effort is needed
+
+6.
+Question 6
+Fill in the blank: When overseeing Agile adoption in your organization, you find an executive sponsor who supports the change. The sponsor can help create a sense of _____.
+
+1 / 1 point
+
+innovation 
+
+
+ownership
+
+
+success 
+
+
+obligation
+
+Correct
+7.
+Question 7
+You are a project manager at a company adopting the Agile approach. The team is intimidated by working in sprints, so you promise each team member a gift card at the end of the first sprint. Which of the six sources of influence does this scenario demonstrate?
+
+0 / 1 point
+
+Personal ability
+
+
+Structural motivation
+
+
+Social motivation
+
+
+Personal motivation
+
+Incorrect
+Try reviewing the reading on the influencer change framework.
+
+8.
+Question 8
+You are a project manager overseeing the development of a new application. You notice a lack of motivation in your team and that many items are “in progress,” even though the deadline is tomorrow. Which Agile principle do these issues impact the most?
+
+1 / 1 point
+
+Team dynamics and culture
+
+
+Business collaboration
+
+
+Retrospectives
+
+
+Value delivery
+
+Correct
+9.
+Question 9
+What can you do to avoid making too many or unfounded product assumptions? Select all that apply.
+
+1 / 1 point
+
+Document assumptions and make them transparent to all.
+
+Correct
+
+Conduct surveys or focus groups to double-check assumptions, where necessary.
+
+Correct
+
+Reuse assumptions from similar, past projects.
+
+
+Discuss assumptions as a team. 
+
+Correct
+10.
+Question 10
+Which of the following scaled Agile frameworks involve Scrum Masters meeting frequently to better coordinate work on a single product across teams?
+
+1 / 1 point
+
+Large-Scale Scrum (LeSS)
+
+
+Scrum of Scrums
+
+
+Disciplined Agile Delivery (DAD)
+
+
+Scaled Agile Framework (SAFe)
+
+Correct
