@@ -495,3 +495,197 @@ Disciplined Agile Delivery (DAD)
 Scaled Agile Framework (SAFe)
 
 Correct
+
+
+1.
+Question 1
+In Agile, to “Build the right thing” ensures your team focuses on what?
+
+1 / 1 point
+
+Value-driven delivery
+
+
+Solution-oriented delivery
+
+
+High-value delivery
+
+
+Process-value delivery
+
+Correct
+2.
+Question 2
+What is the purpose of the product vision in a value roadmap? Select all that apply.
+
+0.5 / 1 point
+
+It defines a high-level view of product requirements.
+
+This should not be selected
+Try reviewing the video on the roadmap to value. 
+
+
+It defines who will use the product.
+
+Correct
+
+It defines an estimated schedule for development.
+
+
+It defines what the product is.
+
+3.
+Question 3
+You create a release plan for a new project. You include the estimated release date, company holidays and the business goals. What else can you add to this release plan to help the team stay focused?
+
+0 / 1 point
+
+Milestones for the development of future releases
+
+
+A backlog of items required for the release goal
+
+
+Use cases for the features in the release
+
+
+Feedback from stakeholders on the project timeline
+
+Incorrect
+Try reviewing the video on the roadmap to value.
+
+4.
+Question 4
+Fill in the blank: As an Agile project manager, you constantly refer to a _____ to keep the team motivated by connecting the work they do in the sprints to a bigger picture.
+
+0 / 1 point
+
+project vision
+
+
+release date
+
+
+product roadmap
+
+
+high-value feature
+
+Incorrect
+Try reviewing the reading on the benefits, pitfalls, and best practices of product roadmaps. 
+
+5.
+Question 5
+Which of the following are common factors that result in changes to the release plan? Select all that apply.
+
+1 / 1 point
+
+Change to product scope
+
+Correct
+
+Better understanding of how much effort is needed
+
+Correct
+
+Change in team velocity
+
+Correct
+
+Better understanding of how much process space is needed
+
+6.
+Question 6
+As a project manager, your organization makes a shift to Agile. To create a sense of urgency, which questions should you ask your team about what’s working and what’s not working right now? Select all that apply.
+
+0.75 / 1 point
+
+What can we do to cut costs in our product creation and sprint process? 
+
+This should not be selected
+Try reviewing the video on how to facilitate organizational change.
+
+
+What allows our competitors to outperform us and get their products and features to market more quickly?
+
+Correct
+
+How can we change the company's stated mission or values to better align with our work? 
+
+
+How can we help you become more productive and supported in your work?
+
+Correct
+7.
+Question 7
+Imagine you are a project manager for a company that adopts a new invoicing process. You schedule training sessions so each team member can develop the individual skills they need to complete the new process. Which of the six sources of influence does this scenario demonstrate? 
+
+1 / 1 point
+
+Social ability
+
+
+Personal motivation
+
+
+Social motivation
+
+
+Personal ability
+
+Correct
+8.
+Question 8
+Does a low level of interpersonal conflict mean that a team is experiencing issues?
+
+1 / 1 point
+
+Yes. A team that rarely has disagreements is not committed enough to the work.
+
+
+No. A team that rarely has disagreements is more productive than a team that disagrees frequently.
+
+
+Sometimes. If a team rarely has disagreements, it could mean team members don’t feel safe stating their opinions.
+
+Correct
+9.
+Question 9
+What can you do to avoid making too many or unfounded product assumptions? Select all that apply.
+
+1 / 1 point
+
+Reuse assumptions from similar, past projects.
+
+
+Discuss assumptions as a team. 
+
+Correct
+
+Conduct surveys or focus groups to double-check assumptions, where necessary.
+
+Correct
+
+Document assumptions and make them transparent to all.
+
+Correct
+10.
+Question 10
+Which scaling method is not a true Agile framework, but can help organizations overcome the challenges of scaling?
+
+1 / 1 point
+
+Large-Scale Scrum (LeSS)
+
+
+Disciplined Agile Delivery (DAD)
+
+
+Scaled Agile Framework (SAFe)
+
+
+The Spotify Model
+
+Correct
